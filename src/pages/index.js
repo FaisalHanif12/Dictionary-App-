@@ -29,7 +29,7 @@ export default function App() {
   return ( 
     <div className="container"> 
       <h1 className="heading"> 
-        ictionary <span>App</span>{' '} 
+        Dictionary <span>App</span>{' '} 
       </h1> 
       <div className="searchBox"> 
         <input 
